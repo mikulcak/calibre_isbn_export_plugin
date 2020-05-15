@@ -1,0 +1,1 @@
+This plugin extracts the ISBN from the selected books, prints them to the console and copies them to the clipboard.
